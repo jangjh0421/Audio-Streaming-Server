@@ -1,4 +1,4 @@
-# Music Streaming System Assignment
+# Audio Streaming Server
 
 ## 1. Introduction
 
